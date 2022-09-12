@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a college student studying software.
+
 <!--
 **niu9786/niu9786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
