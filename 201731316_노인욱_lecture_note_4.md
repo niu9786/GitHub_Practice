@@ -17,3 +17,7 @@ There are some differences between CLI and GUI
 ## How to use Shell Terminal
 ---
 ### In Linux or MacOS
+Run "Terminal" App
+### In Windows
+Install "Git Bash"
+
