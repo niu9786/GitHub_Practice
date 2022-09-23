@@ -1,11 +1,8 @@
 # Lecture Note
 ### about CLI
-
 ---
 
 CLI(Command Line Interface) is interface which run through line by line.
-
----
 
 There are some differences between CLI and GUI
 
