@@ -19,5 +19,16 @@ There are some differences between CLI and GUI
 ### In Linux or MacOS
 Run ***"Terminal"*** App
 ### In Windows
-Install "***Git Bash***"
+Install ***"Git Bash"***
 
+
+## Shell Command
+---
+### pwd
+shows the current path in a hierarchical directory
+
+### cd
+change directory
+
+### ls
+list files and directories
