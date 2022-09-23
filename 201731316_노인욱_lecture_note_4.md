@@ -14,12 +14,15 @@ There are some differences between CLI and GUI
 |Scripts enable automation and records|Manual labors required for repetitive tasks|
 |Basic environment for developers|For daily users|
 
+
+
 ## How to use Shell Terminal
 ---
 ### In Linux or MacOS
 Run ***"Terminal"*** App
 ### In Windows
 Install ***"Git Bash"***
+
 
 
 ## Shell Command
