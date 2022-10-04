@@ -1,6 +1,5 @@
 # Lecture Note 2
 ### about CLI
----
 
 ## IO Redirection: Standard Output
 ---
@@ -44,9 +43,15 @@ Linux is a multi-user system (Server is multi-user system)
 not to be accepted anyone
 
 ### - or d | rwx | rwx | rwx | user | group | 
+if do not be permitted "-"
 1. file type : - is regular file, d is directory
 2. owner's permissions
 3. group owner's permissions
 4. all other users's permissions
+
+### chmod (chmod 000 some_file)
+change permissions
+- 000 is in binary (1 is permission 0 is not permission)
+
 
 
