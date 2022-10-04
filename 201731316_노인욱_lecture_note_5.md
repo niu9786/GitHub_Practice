@@ -53,5 +53,19 @@ if do not be permitted "-"
 change permissions
 - 000 is in binary (1 is permission 0 is not permission)
 
+## Text Editiors
+---
+- vi, vim
+- emacs
+- nano
+- gedit
+- kwrite
 
+## Shell Script
+---
+to save some scripts and run
+input nano some_script.sh
+
+### Tip: History
+to see previous command history
 
