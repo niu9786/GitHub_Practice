@@ -23,4 +23,7 @@ i.g. project_final.txt -> project_final_modif1.txt -> project_final_modif2.txt .
 - Committed(GIT Directory): All the metadata and object dbs of the project are saved in here.
 
 ### GIT Configuration
-
+GIT configurations are stored in three levels
+1. System: All the repositories and users of the computer
+2. Global: All the repositories of current user
+3. Local: Specific repository
