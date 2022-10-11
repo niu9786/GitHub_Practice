@@ -22,4 +22,5 @@ i.g. project_final.txt -> project_final_modif1.txt -> project_final_modif2.txt .
 - Staged(Staging Area): The content worked on the working directory swing by here.
 - Committed(GIT Directory): All the metadata and object dbs of the project are saved in here.
 
+### GIT Configuration
 
