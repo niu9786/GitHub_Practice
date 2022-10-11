@@ -28,7 +28,7 @@ GIT configurations are stored in three levels
 2. Global: All the repositories of current user
 3. Local: Specific repository
 
-####To use
+#### To use
 ```sh
 $ git config --<range> <name> <values>
 ```
