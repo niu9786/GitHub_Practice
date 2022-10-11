@@ -18,6 +18,8 @@ i.g. project_final.txt -> project_final_modif1.txt -> project_final_modif2.txt .
 3. Distributed VCS: All the clients take a backup of the server. DVCS is good at server errors or offline works.
 
 ### Three states in GIT
-- Modified(Working DIrectory): 
-- Staged
-- Committed
+- Modified(Working DIrectory): Checkout specific version at GIT Directory. User do their project works at here.
+- Staged(Staging Area): The content worked on the working directory swing by here.
+- Committed(GIT Directory): All the metadata and object dbs of the project are saved in here.
+
+
