@@ -17,4 +17,7 @@ i.g. project_final.txt -> project_final_modif1.txt -> project_final_modif2.txt .
 2. Centralized VCS: Move the files and changing history to a server. Each clients contact to the server and take a specific version.
 3. Distributed VCS: All the clients take a backup of the server. DVCS is good at server errors or offline works.
 
-
+### Three states in GIT
+- Modified(Working DIrectory): 
+- Staged
+- Committed
