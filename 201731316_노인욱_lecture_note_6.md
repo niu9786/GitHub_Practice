@@ -46,4 +46,32 @@ $ git status
 ```
 
 ### Adding a new file to be staged
+To stage fixes the content of working directory
+```sh
+$ git add [file name/directory]
+```
 
+To stage fixes all the contents of current directory
+```sh
+$ git add .
+```
+
+Unstaging a file
+```sh
+$ git rm -cached [file name]
+```
+
+Ignoring a file
+```sh
+$ nano .gitignore
+```
+
+To commit
+```sh
+$ git comit -m "commit message"
+```
+
+To change branch name
+```sh
+$ git branch -m [current] [to change]
+```
