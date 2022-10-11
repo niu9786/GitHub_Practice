@@ -27,3 +27,23 @@ GIT configurations are stored in three levels
 1. System: All the repositories and users of the computer
 2. Global: All the repositories of current user
 3. Local: Specific repository
+
+####To use
+```sh
+$ git config --<range> <name> <values>
+```
+
+### Initializing repository
+create and initialize a repository in an existing directory
+```sh
+$ git init
+```
+
+### Checking repository status
+Check the status of working directory and staging area
+```sh
+$ git status
+```
+
+### Adding a new file to be staged
+
